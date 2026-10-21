@@ -1,3 +1,5 @@
+<img src="docs/logo.png" alt="CrossplayMarket" width="160" align="right">
+
 # CrossplayMarket
 
 An auction house for **cross-play servers** (Paper or Folia with Geyser/Floodgate) that Bedrock players can actually
