@@ -155,7 +155,7 @@ ones), and the console says so at startup.
 
 - Paper or Folia 1.21.4 to 26.x, Java 21+ (tested on Paper 1.21.11, Paper 26.3 and Folia 26.3)
 - [Vault](https://www.spigotmc.org/resources/vault.34315/) (on Folia: VaultUnlocked, the maintained fork of Vault)
-  **and an economy plugin**. CrossplayMarket works with any economy that supports Vault (tested with EssentialsX). On Folia, the economy
+  **and an economy plugin**. CrossplayMarket works with any economy that supports Vault (tested with EssentialsX on Paper and EternalEconomy on Folia). On Folia, the economy
   plugin must support Folia too.
 - Optional: [Floodgate](https://geysermc.org/download), for the Bedrock menus. Without it everyone gets the Java
   menu.
