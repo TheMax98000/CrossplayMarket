@@ -11,8 +11,8 @@ unreadable lores, a tap buys the wrong item, the anvil search does not open, a p
 commas). They trade in chat instead. With CrossplayMarket, a player on a phone sells the item they hold, searches,
 buys and gets back their unsold items **from menus only**, without typing a price in chat.
 
-> **Status:** version 1.0.0 is finished and tested, not released yet. Free edition: SpigotMC, CurseForge and
-> [Releases](../../releases/latest); full edition: Payhip (links when published).
+> **Status:** version 1.0.0 released: free edition in [Releases](../../releases/latest) (SpigotMC and CurseForge
+> soon), full edition on [Payhip](https://payhip.com/b/bnQ1U).
 
 ## Editions
 
@@ -35,7 +35,7 @@ Bedrock menus and duplication safety are never limited in the free edition.
 ## How it looks
 
 - **Bedrock players** (detected by Floodgate) get native Bedrock forms: a home screen (Browse, Search, My listings,
-  Collection box, Categories in the full edition), lists of 10 to 15 listings per page (name, amount, price,
+  Collection box, Categories in the full edition) with your balance, lists of 10 to 15 listings per page (name, amount, price,
   seller), a sheet for each listing (enchantments, durability, lore, shulker content, time left) with Buy and Back.
   After a purchase you are back on the same list, same page, same search.
 - **Selling on Bedrock**: `/ah sell` with the item in hand opens one form: the item, a price field, a duration list
@@ -45,7 +45,7 @@ Bedrock menus and duplication safety are never limited in the free edition.
   player's language, read from the language files that Geyser downloads itself (nothing is redistributed).
 - **Java players** get a 6-row chest menu: 45 listings (the real item with price, seller and time left in the lore),
   previous and next page, sort (lowest price, highest price, newest, ending soon), search, categories, my listings,
-  collection box. Clicking a listing opens a confirmation menu.
+  collection box, your balance. Clicking a listing opens a confirmation menu.
 
 ## Duplication safety
 
