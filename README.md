@@ -11,8 +11,9 @@ unreadable lores, a tap buys the wrong item, the anvil search does not open, a p
 commas). They trade in chat instead. With CrossplayMarket, a player on a phone sells the item they hold, searches,
 buys and gets back their unsold items **from menus only**, without typing a price in chat.
 
-> **Status:** version 1.0.0 released: free edition in [Releases](../../releases/latest) (SpigotMC and CurseForge
-> soon), full edition on [Payhip](https://payhip.com/b/bnQ1U).
+> **Status:** version 1.0.0 released: free edition on
+> [SpigotMC](https://www.spigotmc.org/resources/crossplaymarket-free.139834/) and in [Releases](../../releases/latest)
+> (CurseForge soon), full edition on [Payhip](https://payhip.com/b/bnQ1U).
 
 ## Editions
 
